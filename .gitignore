@@ -1,0 +1,16 @@
+# Ignore virtual environments
+cnnenv/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+.vscode/
