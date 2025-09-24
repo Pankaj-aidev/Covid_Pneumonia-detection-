@@ -4,5 +4,5 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-tensorflow
-streamlit
+streamlit==1.25.0
+tensorflow==2.13.0
